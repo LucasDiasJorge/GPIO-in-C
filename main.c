@@ -9,6 +9,9 @@
 
 int main() {
 
+    wiringPiSetupGpio();
+
+
     if (wiringPiSetup() == -1) {
       fprintf(stderr, "Falha ao inicializar a biblioteca WiringPi\n");
       exit(1);
