@@ -13,3 +13,6 @@ sudo chmod +x ./build
 sudo ./build
 
 gcc main.c -o main -lwiringPi -pthread
+
+## Pinagem
+https://learn.sparkfun.com/tutorials/raspberry-gpio/gpio-pinout
