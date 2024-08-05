@@ -58,6 +58,4 @@ Confira o guia de pinagem para entender a correspondência dos pinos GPIO:
 ---
 
 Sinta-se à vontade para contribuir com melhorias ou reportar problemas abrindo uma issue no repositório.
-```
 
-Esta versão está mais organizada e inclui descrições adicionais para tornar as instruções mais claras.
